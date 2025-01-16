@@ -31,7 +31,8 @@ ollama_pdf_rag/
 ├── tests/                    # Unit tests
 ├── docs/                     # Documentation
 └── run.py                    # Application runner
-## ✨ Key Features
+
+# ✨ Key Features
 🔒 Full Local Processing: All processing happens locally—no data leaves your machine.
 📄 PDF Processing: Breaks down PDFs into manageable chunks for efficient processing.
 🧠 Multi-query Retrieval: Handles multiple queries to improve understanding and provide contextually relevant responses.
