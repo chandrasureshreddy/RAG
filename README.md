@@ -32,7 +32,7 @@ ollama_pdf_rag/
 ├── docs/                     # Documentation
 └── run.py                    # Application runner
 
-
+---
 ## ✨ Key Features
 
 - **🔒 Full Local Processing:** All processing happens locally—no data leaves your machine.
@@ -41,3 +41,5 @@ ollama_pdf_rag/
 - **🎯 Advanced RAG Implementation:** Uses LangChain's RAG pipeline to retrieve answers intelligently.
 - **🖥️ Streamlit Web Interface:** A simple and easy-to-use web-based interface for chatting with your PDF.
 - **📓 Jupyter Notebooks for Experimentation:** Experiment with the model and retrieval pipeline in an interactive notebook environment.
+
+---
